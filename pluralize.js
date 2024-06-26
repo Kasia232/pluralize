@@ -287,6 +287,7 @@
     ['this', 'these'],
     ['that', 'those'],
     ['my', 'our'],
+    ['mine', 'ours'],
     ['its', 'their'],
     ['his', 'their'],
     ['her', 'their'],
