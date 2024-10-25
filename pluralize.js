@@ -341,7 +341,7 @@
     [/(alias|[^aou]us|t[lm]as|gas|ris)$/i, '$1es'],
     [/(e[mn]u)s?$/i, '$1s'],
     [/([^l]ias|[aeiou]las|[ejzr]as|[iu]am)$/i, '$1'],
-    [/(alumn|syllab|vir|radi|nucle|fung|cact|stimul|termin|bacill|foc|uter|loc|strat)(?:us|i)$/i, '$1i'],
+    [/(alumn|syllab|radi|nucle|fung|cact|stimul|termin|bacill|foc|uter|loc|strat)(?:us|i)$/i, '$1i'],
     [/(alumn|alg|vertebr)(?:a|ae)$/i, '$1ae'],
     [/(seraph|cherub)(?:im)?$/i, '$1im'],
     [/(her|at|gr)o$/i, '$1oes'],

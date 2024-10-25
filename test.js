@@ -194,7 +194,7 @@ var BASIC_TESTS = [
   ['die', 'dice'],
   ['penny', 'pennies'],
   ['campus', 'campuses'],
-  ['virus', 'viri'],
+  ['virus', 'viruses'],
   ['iris', 'irises'],
   ['bureau', 'bureaus'],
   ['kiwi', 'kiwis'],
